@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logotipo.svg"
-   inkscape:export-filename="/home/guivaloz/Documentos/GitHub/guivaloz/MarketplaceAgricola/imagenes/logotipo.png"
+   inkscape:export-filename="/home/guivaloz/Documentos/GitHub/MarketplaceAgricola/marketplaceagricola.github.io/imagenes/logotipo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="138.33696"
+     inkscape:cx="152.06041"
      inkscape:cy="73.736298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1410"
      inkscape:window-height="750"
-     inkscape:window-x="98"
-     inkscape:window-y="80"
+     inkscape:window-x="81"
+     inkscape:window-y="63"
      inkscape:window-maximized="0"
      units="px" />
   <metadata
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,7 +68,7 @@
          id="tspan4138"
          x="11.932476"
          y="968.10687"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.713871px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#db8844;fill-opacity:1">Marketing</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.713871px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#db8844;fill-opacity:1">Marketplace</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.14258194px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e8a7a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

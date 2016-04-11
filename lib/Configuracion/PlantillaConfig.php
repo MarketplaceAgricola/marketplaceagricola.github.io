@@ -31,7 +31,7 @@ class PlantillaConfig {
     public $sitio_url        = 'http://marketplaceagricola.github.io'; // Sin diagonal al final
     public $rss              = 'rss.xml';
     public $favicon          = 'favicon.ico';
-    public $propio_css       = 'css/marketing-agricola.css';
+    public $propio_css       = 'css/marketplace-agricola.css';
     public $en_raiz          = false;       // Si es verdadero los vínculos serán para un archivo en la raíz del sitio
     public $para_compartir   = false;       // Si es verdadero pondrá los metas para tarjetas en Twitter/Facebook
     public $autor            = 'guivaloz';  // Autor por defecto

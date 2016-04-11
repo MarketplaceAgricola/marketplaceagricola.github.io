@@ -24,7 +24,7 @@
 body {
     font-family:'Droid Sans',sans-serif;
     font-weight:400;
-    background-color:#12283B;
+    background-color:#2E8A7D;
 }
 h1, .h1,
 h2, .h2,
@@ -36,11 +36,11 @@ h6, .h6 {
     font-weight:700;
     line-height:1.2;
 }
-a         { color:#1161A8; text-decoration:none; font-weight:700; }
+a         { color:#2E8A7D; text-decoration:none; font-weight:700; }
 a:link,
-a:visited { color:#1161A8; text-decoration:none; }
+a:visited { color:#2E8A7D; text-decoration:none; }
 a:hover,
-a:active  { color:#0088FF; text-decoration:underline; }
+a:active  { color:#009782; text-decoration:underline; }
 
 /*
  * Page wrapper
@@ -53,7 +53,7 @@ a:active  { color:#0088FF; text-decoration:underline; }
  * Navegación
  */
 .navbar-default {
-    background-color:#12283B;
+    background-color:#2E8A7D;
     border-color:#827798;
 }
 .navbar-header { color:white; }
@@ -75,13 +75,13 @@ a:active  { color:#0088FF; text-decoration:underline; }
 .navbar-default .navbar-brand a:visited,
 .navbar-default .navbar-brand a:hover,
 .navbar-default .navbar-brand a:active { color:white; }
-.navbar-static-top                     { background-color:#12283B; }
+.navbar-static-top                     { background-color:#2E8A7D; }
 #side-menu a,
 #side-menu a:link,
-#side-menu a:visited { color:#9FB7CC; background-color:#22374A; font-weight:400; }
+#side-menu a:visited { color:#9FB7CC; background-color:#356760; font-weight:400; }
 #side-menu a:hover,
-#side-menu a:active  { color:white; background-color:#4E6375; }
-.sidebar ul li       { border-bottom-color:#12283B; }
+#side-menu a:active  { color:white; background-color:#34A090; }
+.sidebar ul li       { border-bottom-color:#34A090; }
 
 /*
  * Cuerpo
@@ -111,39 +111,39 @@ a:active  { color:#0088FF; text-decoration:underline; }
 /*
  * Mapa inferior
  */
-.mapa-inferior            { background-color:#BEC5CB; }
+.mapa-inferior            { background-color:#DB8844; }
 .redes-sociales a,
 .redes-sociales a:link,
-.redes-sociales a:visited { color:#12283B; text-decoration:none; }
+.redes-sociales a:visited { color:#2E8A7D; text-decoration:none; }
 .redes-sociales a:hover,
-.redes-sociales a:active  { color:#4E6375; text-decoration:none; }
+.redes-sociales a:active  { color:#57754E; text-decoration:none; }
 
 /*
  * Página inicial
  */
 #organizacion {
-    background-color:#003060;
+    background-color:#2E8A7D;
     background-image:url('../imagenes/encabezado.jpg');
     background-repeat: no-repeat;
     background-position: right top;
     min-height:190px;
 }
 #organizacion .encabezado {
-    color:white;
+    color:#DB8844;
     border-bottom:none;
 }
 #organizacion .encabezado-descripcion {
-    color:white;
+    color:;
 }
 #destacado {
     padding:16px;
-    background-color:#C9D1D9;
+    background-color:#E6D2C2;
 }
 #destacado .contenido-imagen-previa {
     margin:8px;
 }
-#categorias { background-color:#BDD1E0; }
-#redes      { background-color:#BEC5CB; }
+#categorias { background-color:#F2F4F3; }
+#redes      { background-color:#DB8844; }
 
 /*
  * Responsivo

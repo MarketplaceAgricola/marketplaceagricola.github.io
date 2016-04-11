@@ -6,7 +6,7 @@ E_FATAL=99
 
 # Constantes
 ORIGINAL_DIR="$HOME/Documentos/GitHub/MovimientoLibre/movimientolibre.github.io"
-DESTINO_DIR="$HOME/Documentos/GitHub/guivaloz/MarketplaceAgricola"
+DESTINO_DIR="$HOME/Documentos/GitHub/MarketplaceAgricola/marketplaceagricola.github.io"
 
 echo "[Copiar] Inicia"
 

@@ -30,9 +30,9 @@ class NavegacionConfig {
     protected $sitio_titulo  = 'Marketplace Agrícola';
     protected $logotipo;
     protected $opciones      = array(
-        'Opción 1' => 'opcion1/index.html',
-        'Opción 2' => 'opcion2/index.html',
-        'Opción 3' => 'opcion3/index.html');
+        'Opción 1' => '#',
+        'Opción 2' => '#',
+        'Opción 3' => '#');
     static public $iconos    = array(
         'Opción 1' => 'fa fa-files-o',
         'Opción 2' => 'fa fa-server',

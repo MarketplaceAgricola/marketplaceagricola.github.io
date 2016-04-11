@@ -82,7 +82,7 @@ class PaginaInicialConfig extends \Base\Plantilla {
     protected function organizacion() {
         // Encabezado
         $organizacion                 = new \Base\SchemaOrganization();
-        $organizacion->name           = 'Marketing Agrícola';
+        $organizacion->name           = 'Marketplace Agrícola';
         $organizacion->description    = 'Portal de los productores agrícolas de la Comarca Lagunera.';
         $organizacion->image          = 'imagenes/logotipo.png';
         $organizacion->is_article     = false;
@@ -103,21 +103,21 @@ class PaginaInicialConfig extends \Base\Plantilla {
         $productos->name           = 'Productos';
         $productos->description    = 'Conozca a detalle cada producto agrícola consultando sus fichas técnicas.';
         $productos->image          = 'imagenes/128/text-editor.png';
-        $productos->url            = 'apuntes/index.html';
+        $productos->url            = 'productos/index.html';
         // Artículos
         $insumos                 = new \Base\SchemaProduct();
         $insumos->class_property = 'destacado-servicio';
         $insumos->name           = 'Insumos';
         $insumos->description    = 'Concurse para ser proveedor de un gran número de clientes especializados.';
         $insumos->image          = 'imagenes/128/dictionary.png';
-        $insumos->url            = 'articulos/index.html';
+        $insumos->url            = 'insumos/index.html';
         // Presentaciones
         $investigaciones                 = new \Base\SchemaProduct();
         $investigaciones->class_property = 'destacado-servicio';
         $investigaciones->name           = 'Investigaciones';
         $investigaciones->description    = 'Casos de estudio y documentos de análisis en el ámbito regional.';
         $investigaciones->image          = 'imagenes/128/calligrastage.png';
-        $investigaciones->url            = 'presentaciones/index.html';
+        $investigaciones->url            = 'investigaciones/index.html';
         // Acumular sección destacado
         $this->contenido[]  = '  <section id="destacado">';
         $this->contenido[]  = '    <div class="row">';

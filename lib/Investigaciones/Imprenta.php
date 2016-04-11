@@ -43,7 +43,7 @@ class Imprenta extends \Base\ImprentaPublicaciones {
         // Ruta a la clase para hacer la página con el índice
         $this->indices_paginas          = '\\Base\\PaginasDetallados'; // Puede ser \Base\PaginasDetallados, \Base\PaginasGalerias, \Base\PaginasListado o \Base\PaginasTarjetas
         // Directorio en la raíz que será creado para alojar el concentrador y las páginas
-        $this->directorio               = 'titulo';
+        $this->directorio               = 'investigaciones';
         // Ejecutar constructor en el padre
         parent::__construct();
     } // constructor
