@@ -67,9 +67,9 @@ class PaginaInicialConfig extends \Base\Plantilla {
         $this->en_raiz                  = true;
         $this->directorio               = '.';
         $this->archivo_ruta             = "index.html";
-        $this->titulo                   = 'Marketing Agrícola';
+        $this->titulo                   = 'Marketplace Agrícola';
         $this->autor                    = 'guivaloz';
-        $this->descripcion              = 'Sitio web de Marketing Agrícola.';
+        $this->descripcion              = 'Sitio web de Marketplace Agrícola.';
         $this->claves                   = 'Campo, Alimentos, Productores, La Laguna';
         $this->imagen_previa_ruta       = 'imagenes/imagen-previa.jpg';
         $this->contenido_en_renglon     = false;

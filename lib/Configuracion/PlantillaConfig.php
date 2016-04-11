@@ -27,8 +27,8 @@ namespace Configuracion;
  */
 class PlantillaConfig {
 
-    public $sitio_titulo     = 'Marketing Agrícola';
-    public $sitio_url        = 'http://marketingagricola.github.io'; // Sin diagonal al final
+    public $sitio_titulo     = 'Marketplace Agrícola';
+    public $sitio_url        = 'http://marketplaceagricola.github.io'; // Sin diagonal al final
     public $rss              = 'rss.xml';
     public $favicon          = 'favicon.ico';
     public $propio_css       = 'css/marketing-agricola.css';

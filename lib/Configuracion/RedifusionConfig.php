@@ -29,7 +29,7 @@ class RedifusionConfig {
 
     public $xml_encoding      = 'UTF-8';
     public $sitio_titulo      = 'Marketing Agrícola';
-    public $sitio_url         = 'http://marketingagricola.github.io'; // Sin diagonal al final
+    public $sitio_url         = 'http://marketplaceagricola.github.io'; // Sin diagonal al final
     public $sitio_descripcion = 'Últimas publicaciones de Marketing Agrícola.';
     public $lenguaje          = 'es-MX';
     public $generator         = 'Plataforma de Conocimiento v1.0';
